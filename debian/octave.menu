@@ -1,0 +1,5 @@
+?package(octave):needs="text"				\
+	section="Applications/Science/Mathematics"	\
+	 title="Octave UPM"					\
+	 command="/usr/bin/octave-upm"
+

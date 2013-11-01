@@ -1,0 +1,7 @@
+src/bin/octave-upm /usr/bin
+qscintilla/Qt4Qt5/libqscintilla2_octave_upm.so.8.0.2 /usr/lib
+qscintilla/Qt4Qt5/libqscintilla2_octave_upm.so.8 /usr/lib
+src/bin/config/settings /usr/share/octave-upm/config
+src/bin/languages/es-es.qm /usr/share/octave-upm/languages
+src/bin/languages/generic.qm /usr/share/octave-upm/languages
+

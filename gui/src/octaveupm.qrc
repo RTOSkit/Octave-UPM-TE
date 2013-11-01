@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>media/EscUpmPolit.jpg</file>
+        <file>media/logo.png</file>
+        <file>media/loading.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>media/Paste-icon.png</file>
+        <file>media/Copy-icon.png</file>
+        <file>media/cut-icon.png</file>
+        <file>media/new-document-icon.png</file>
+    </qresource>
+    <qresource prefix="/actions">
+        <file>icons/redled.png</file>
+        <file>icons/arrow_right.png</file>
+        <file>icons/configure.png</file>
+    </qresource>
+</RCC>

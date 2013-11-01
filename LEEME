@@ -1,0 +1,6 @@
+Contenidos de este directorio
+
+ - GUI       Fuentes de la interfaz gráfica con modificaciones propias
+ - readline  Fuentes de la biblioteca readline parcheadas para Windows
+ - nsi       Script para crear el instalador de Octave UPM
+ - debian    Ficheros para crear los paquetes para Debian y Ubuntu

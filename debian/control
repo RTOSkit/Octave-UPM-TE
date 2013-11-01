@@ -1,0 +1,18 @@
+Source: octave-upm
+Section: math
+Priority: extra
+Maintainer: Israel Herraiz <israel.herraiz@upm.es>
+Build-Depends: liboctave-dev (>=3.6), octave (>=3.6), libqt4-dev, qt4-qmake, debhelper (>=7), libqtwebkit-dev
+Standards-Version: 3.9.3
+Homepage: http://mat.caminos.upm.es/octave
+
+Package: octave-upm
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, octave (>=3.6), libqtgui4
+Description: GNU Octave language for numerical computations
+ Octave is a (mostly Matlab (R) compatible) high-level language, primarily
+ intended for numerical computations. It provides a convenient command-line
+ interface for solving linear and nonlinear problems numerically.
+ .
+ This is the GUI for the Octave UPM edition.
+

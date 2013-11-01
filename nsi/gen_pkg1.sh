@@ -1,0 +1,1 @@
+i=1; ls -d * | while read l; do echo 'Section /o "'$l'" sec'$i; echo 'SetOutPath "$INSTDIR\share\octave\packages\'$l'"'; echo 'File /r "${OCTAVE_ROOT}\packages\'$l'\*.*"'; echo "SectionEnd"; let "i += 1"; done > ../packages.txt

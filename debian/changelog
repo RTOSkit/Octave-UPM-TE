@@ -1,0 +1,150 @@
+octave-upm (3.6.4-R8.2~raring1) raring; urgency=low
+
+  * R8.2 for Raring
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Tue, 23 Jul 2013 18:56:59 +0200
+
+octave-upm (3.6.2-R8.2~precise14) precise; urgency=low
+
+  * R8.2 for Precise
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Tue, 23 Jul 2013 18:56:20 +0200
+
+octave-upm (3.6.2-R8.2~quantal3) quantal; urgency=low
+
+  * R8.2 for Quantal
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Tue, 23 Jul 2013 18:55:52 +0200
+
+octave-upm (3.6.2-R8~quantal2) quantal; urgency=low
+
+  * R8 for Quantal
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Fri, 29 Mar 2013 01:28:46 +0100
+
+octave-upm (3.6.2-R8~precise13) precise; urgency=low
+
+  * R8 for Precise
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Fri, 29 Mar 2013 01:04:35 +0100
+
+octave-upm (3.6.2-R7~quantal1) quantal; urgency=low
+
+  * R7 version for Quantal
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Thu, 17 Jan 2013 16:46:15 +0100
+
+octave-upm (3.6.2-R7~precise12) precise; urgency=low
+
+  * Updated to R7
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Thu, 17 Jan 2013 12:46:33 +0100
+
+octave-upm (3.6.2-R6~precise11) precise; urgency=low
+
+  * Fix issue with terminal cursor
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Thu, 18 Oct 2012 15:30:19 +0200
+
+octave-upm (3.6.2-R6~precise10) precise; urgency=low
+
+  * Updated to R6
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Mon, 15 Oct 2012 11:21:11 +0200
+
+octave-upm (3.6.2-R5~precise9) precise; urgency=low
+
+  * Updated to R5
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Mon, 15 Oct 2012 11:20:50 +0200
+
+octave-upm (3.6.2-R4.1~precise8) precise; urgency=low
+
+  * Fixed missing header file
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Sun, 09 Sep 2012 01:02:17 +0200
+
+octave-upm (3.6.2-R4.1~precise7) precise; urgency=low
+
+  * Fixed build process in Ubuntu
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Sun, 09 Sep 2012 01:01:03 +0200
+
+octave-upm (3.6.2-R4.1~precise6) precise; urgency=low
+
+  * Updated to R4.1
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Sat, 08 Sep 2012 21:58:12 +0200
+
+octave-upm (3.6.2-R4~precise5) precise; urgency=low
+
+  * Minor fixes and translations
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Mon, 13 Aug 2012 23:59:08 +0200
+
+octave-upm (3.6.2-R4~precise4) precise; urgency=low
+
+  * Find and replace in the editor added
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Mon, 13 Aug 2012 21:49:03 +0200
+
+octave-upm (3.6.2-R4~precise3) precise; urgency=low
+
+  * Minor fixes to R4
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Mon, 13 Aug 2012 21:08:59 +0200
+
+octave-upm (3.6.2-R4~precise2) precise; urgency=low
+
+  * Minor fix to R4
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Thu, 09 Aug 2012 23:47:31 +0200
+
+octave-upm (3.6.2-R4~precise1) precise; urgency=low
+
+  * Updated to R4
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Thu, 09 Aug 2012 06:59:36 +0200
+
+octave-upm (3.6.1-2ubuntu1ppa1~precise7) precise; urgency=low
+
+  * Fixed changelog distribution name.
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Sat, 21 Jul 2012 02:18:12 +0200
+
+octave-upm (3.6.1-2ubuntu1ppa1~precise6) precise; urgency=low
+
+  * Updated to R3
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Sat, 21 Jul 2012 01:37:38 +0200
+
+octave-upm (3.6.1-2ubuntu1ppa1~precise5) precise; urgency=low
+
+  * Updated to R2
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Sat, 02 Jun 2012 00:28:44 +0200
+
+octave-upm (3.6.1-1ubuntu1ppa1~precise4) precise; urgency=low
+
+  * Add missing dependencies
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Sun, 13 May 2012 02:18:19 +0200
+
+octave-upm (3.6.1-1ubuntu1ppa1~precise3) precise; urgency=low
+
+  * Fix building in the PPA (changelog rejected)
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Sun, 13 May 2012 01:57:32 +0200
+
+octave-upm (3.6.1-1ubuntu1ppa1~precise2) precise; urgency=low
+
+  * Fix building in the PPA
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Sun, 13 May 2012 01:51:32 +0200
+
+octave-upm (3.6.1-1ubuntu1ppa1~precise1) precise; urgency=low
+
+  * Initial package
+
+ -- Israel Herraiz <israel.herraiz@upm.es>  Sun, 13 May 2012 01:51:11 +0200
+
